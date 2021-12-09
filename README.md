@@ -34,3 +34,6 @@ Some of the images are displayed below :
 ![4735873109](https://user-images.githubusercontent.com/48234795/145378730-e8d010c6-a156-45e8-a89f-a601d7e0d2c5.jpg)
 
 
+# Code and results
+The notebook provided contains the code for getting the names of all images in a directory and then extracting their features. Then a dataset is built by shuffling both positive and negative examples. SVM with a radial basis function produces 81 % accuracy and 87% recall.
+
