@@ -9,6 +9,8 @@ The HOG descriptor is based on the structure of the object. It extracts the grad
 <br>
 After we have extracted the features of an image using HOG, we use a classifier like SVM to perform the classification task.
 <br>
+![download](https://user-images.githubusercontent.com/48234795/145380646-653056fd-e029-4f19-a8df-e146784fad19.png)
+<br>
 ______________________________________________________________________________________________________________________________________________________________________
 # Datasets
 
