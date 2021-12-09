@@ -20,3 +20,15 @@ I have taken 1618 random images from this dataset. Some of these are displayed b
 ![00000100_007](https://user-images.githubusercontent.com/48234795/145378058-b0a5faa9-969d-4dff-a917-5d00301af694.jpg)
 
 ![00000101_012](https://user-images.githubusercontent.com/48234795/145378210-b02f24db-40ef-4dac-bae6-178a31f3ced7.jpg)
+
+For negative examples in our dataset, I have taken 1330 random images from flickr dataset avaialble at : https://www.kaggle.com/hsankesara/flickr-image-dataset
+<br>
+Some of the images are displayed below :
+
+<br>
+![4729870194](https://user-images.githubusercontent.com/48234795/145378593-435a7568-132a-4d5c-bcc9-27acc6a0c215.jpg)
+![4729750820](https://user-images.githubusercontent.com/48234795/145378627-2d10d6ab-4f59-4f7c-9562-c76f4dae3dbc.jpg)
+
+![4735873109](https://user-images.githubusercontent.com/48234795/145378730-e8d010c6-a156-45e8-a89f-a601d7e0d2c5.jpg)
+
+
